@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "858445286823",
+    "project_id": "login-demo-84bc1",
+    "storage_bucket": "login-demo-84bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858445286823:android:3d20a759439b042fdf3a82",
+        "android_client_info": {
+          "package_name": "com.example.fb_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858445286823-diotmfrv17dn7b1ghvrtu9ld3k66i5aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fb_app",
+            "certificate_hash": "49acd2bff27e9b1f531ede2f451bb884ab8c391d"
+          }
+        },
+        {
+          "client_id": "858445286823-fgbju5smhdlqb8nvi6docick6bd7im56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCehDEgVzpdKGa3oX4CrzyNR2IbAWsyZWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858445286823-fgbju5smhdlqb8nvi6docick6bd7im56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858445286823-5gf9uqpb4v5r0jgsm41efoltmjskv8c1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fbApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858445286823:android:05440245fdd9e8d0df3a82",
+        "android_client_info": {
+          "package_name": "hust.edu.vn.lam.nh.oauth2login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858445286823-fgbju5smhdlqb8nvi6docick6bd7im56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCehDEgVzpdKGa3oX4CrzyNR2IbAWsyZWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858445286823-fgbju5smhdlqb8nvi6docick6bd7im56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858445286823-5gf9uqpb4v5r0jgsm41efoltmjskv8c1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fbApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
